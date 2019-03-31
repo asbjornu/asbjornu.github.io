@@ -1,4 +1,4 @@
 repository: asbjornu/asbjornu.github.io
-# theme: midnight
+theme:  jekyll-theme-slate
 plugins:
   - "jekyll-github-metadata"
