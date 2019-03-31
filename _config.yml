@@ -1,0 +1,4 @@
+repository: asbjornu/asbjornu.github.io
+# theme: midnight
+plugins:
+  - "jekyll-github-metadata"
